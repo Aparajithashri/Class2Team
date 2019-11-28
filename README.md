@@ -1,5 +1,5 @@
 # Class2Team
-Split a class students into 5 teams
+Split a class students into 5 teams using python
 
 REQUIRED RESOURCE:
       *Python 3.7
